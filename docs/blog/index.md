@@ -2,5 +2,5 @@
 
 ## Posts
 
-- [First post](./first-post.md)
-- [Second post](./second-post.md)
+- [First post](./first-post.mdx)
+- [Second post](./second-post.mdx)

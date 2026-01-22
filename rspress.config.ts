@@ -27,12 +27,7 @@ export default defineConfig({
         ],
     },
     // globalUIComponents: [
-    //     [
-    //         path.join(__dirname, 'components', 'HelloWorld.tsx'),
-    //         {
-    //             foo: 'bar'
-    //         }
-    //     ]
-    // ]
+    //     [ path.join(__dirname, 'components', 'Comment.tsx'), {} ]
+    // ],
     globalStyles: path.join(__dirname, "styles/index.css"),
 });
