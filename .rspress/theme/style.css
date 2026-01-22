@@ -1,0 +1,13 @@
+:root {
+    --rp-c-brand: #000;
+    --rp-c-bg: #fff;
+}
+
+html.dark {
+    --rp-c-brand: #fff;
+    --rp-c-bg: #000;
+}
+
+* {
+    font-family: Inter, system-ui;
+}

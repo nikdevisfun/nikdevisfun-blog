@@ -1,0 +1,24 @@
+---
+title: First Post
+tags: [rspress, nikdev]
+category: Tech
+---
+
+
+# First Post
+
+
+欢迎来到 NikDev Blog 🚀
+
+
+这是第一篇文章。
+
+
+---
+
+
+## 评论
+
+
+<Giscus />
+
